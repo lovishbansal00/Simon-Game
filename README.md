@@ -2,9 +2,6 @@
 
 Simon Game is a classic memory game where players need to repeat a sequence of colors in the correct order. This repository contains a web-based implementation of the Simon Game using HTML, CSS, and JavaScript.
 
-#ScreenShots
-![Simon Game Screenshot](/images/screenshot.png)
-
 ## How to Play
 
 1. Visit the [Simon Game](https://lovishbansal00.github.io/simon-game/) page.
@@ -38,6 +35,10 @@ Simon Game is a classic memory game where players need to repeat a sequence of c
 ## Demo
 
 You can play the Simon Game online by visiting the [Simon Game](https://your-username.github.io/simon-game/) page.
+
+# ScreenShots
+
+![Simon Game Screenshot](/images/screenshot.png)
 
 ## Contributing
 
